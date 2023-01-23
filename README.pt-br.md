@@ -5,7 +5,6 @@
 [![Replit](https://img.shields.io/badge/replit-667881?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@davidsonbrsilva)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/davidsonbrsilva)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@davidsonbrsilva)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/davidsonbrsilva/) 
 
 [[See in English](README.md)] 
 
@@ -17,7 +16,7 @@ A maioria do conteúdo do meu Github foi criado com a intenção de aprender ou 
 
 ## Precisa de mim para um trabalho?
 
-Possuo experiência de mercado em desenvolvimento de APIs com microsserviços em .Net (C#) e desenvolvimento de interfaces de usuário com React e React Native. Possuo conhecimento sólido em CSS e SASS, HTML semântico e JavaScript nas versões mais recentes a partir do ECMAScript 6. Busco, atualmente, aperfeiçoamento em frameworks como Vue e Svelte.
+Possuo experiência de mercado em desenvolvimento de APIs com microsserviços em .Net (C#) e desenvolvimento de interfaces de usuário com React e React Native. Possuo conhecimento sólido em CSS e SASS, HTML semântico e JavaScript nas versões mais recentes a partir do ECMAScript 6. Busco, atualmente, aperfeiçoamento em frameworks como Vue e Svelte e em minhas habilidades com o inglês.
 
 Conheço as boas práticas apontadas pelas arquiteturas Clean, Onion e Hexagonal, bem como DDD (Domain-Driven Development), DevOps e construção de esteiras de CI/CD. Também me identifico bastante com assuntos relacionados à UX/UI.
 

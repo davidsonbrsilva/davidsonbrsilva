@@ -5,7 +5,6 @@
 [![Replit](https://img.shields.io/badge/replit-667881?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@davidsonbrsilva)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/davidsonbrsilva)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@davidsonbrsilva)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/davidsonbrsilva/)
 
 [[Ver em Português](README.pt-br.md)]
 

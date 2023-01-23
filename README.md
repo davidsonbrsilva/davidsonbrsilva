@@ -9,7 +9,7 @@
 
 [[Ver em Português](README.pt-br.md)]
 
-I am a developer with a degree in Information Systems from [Federal University of the Jequitinhonha and Mucuri Valleys]() and I've been worked as a lead developer at [dti digital](https://www.dtidigital.com.br/) (@dtidigitalcrafters). In the programming world, I am mainly interested in Artificial Intelligence, Compilers and Web Development.
+Thank you for your visit! I am a developer with a degree in Information Systems from [Federal University of the Jequitinhonha and Mucuri Valleys]() and I've been worked as a lead developer at [dti digital](https://www.dtidigital.com.br/) ([@dtidigitalcrafters](https://github.com/dtidigitalcrafters)). In the programming world, I am mainly interested in Artificial Intelligence, Compilers and Web Development.
 
 Most of the content on my Github was created with the intention of learning or reinforcing some knowledge, therefore, the most relevant works with which I had contact will not be here. Even so, you can take them as a reference for my code style.
 

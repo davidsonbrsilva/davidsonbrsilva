@@ -8,7 +8,7 @@
 
 [[See in English](README.md)] 
 
-Obrigado por sua visita! Sou programador formado em Sistemas de Informação pela [Universidade Federal dos Vales do Jequitinhonha e Mucuri]() e atualmente trabalho como desenvolvedor líder na [dti digital](https://www.dtidigital.com.br/) ([@dtidigitalcrafters](https://github.com/dtidigitalcrafters)). No mundo da programação, interesso-me, principalmente, por Inteligência Artificial, Compiladores e Desenvolvimento Web.
+Obrigado por sua visita! Sou programador formado em Sistemas de Informação pela [Universidade Federal dos Vales do Jequitinhonha e Mucuri]() e atualmente trabalho como desenvolvedor líder na [Mercado Livre](https://mercadolivre.com.br/). No mundo da programação, interesso-me, principalmente, por Inteligência Artificial, Compiladores e Desenvolvimento Web.
 
 A maioria do conteúdo do meu Github foi criado com a intenção de aprender ou reforçar algum conhecimento, portanto, os trabalhos mais relevantes com os quais tive contato não estarão aqui. Ainda assim, você pode tomá-los como referência para o meu estilo de código.
 
